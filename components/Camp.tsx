@@ -1,5 +1,6 @@
 import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
+import "./module.css" ;
 
 interface CampProps {
   backgroundImage: string;
