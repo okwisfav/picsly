@@ -22,7 +22,7 @@ export const NAV_LINKS = [
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'Picsly live streaming feature enables real-time video broadcasts, fostering interactive viewer engagement through comments and reactions, ideal for personal storytelling, events, and building a lively, connected online community.',
     },
     {
       title: 'Live Streaming',
@@ -35,15 +35,14 @@ export const NAV_LINKS = [
       title: 'Monetization Features',
       icon: '/tech.svg',
       variant: 'green',
-      description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      description:'Unlock earning potential on Picsly with versatile monetization features. From ads and sponsorships to virtual gifts, creators can turn their passion into profit. Empower your content journey while building a supportive community invested in your unique creations.',
     },
     {
       title: 'Hashtags and Trends',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        'Discover and explore dynamic content on Picsly with trending hashtags. Stay connected to the latest trends, explore diverse topics, and engage with a vibrant community. Use hashtags to curate and find content that resonates with your interests, creating a dynamic and personalized experience.',
     },
   ];
   
@@ -52,8 +51,8 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
-        'Press Releases',
+        'About Picsly',
+        'Press Release',
         'Environment',
         'Jobs',
         'Privacy Policy',
@@ -70,7 +69,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Officer', value: 'picsly@gmail.com' },
     ],
   };
   
