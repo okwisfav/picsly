@@ -32,14 +32,14 @@ export const NAV_LINKS = [
         "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Monetization Features',
       icon: '/tech.svg',
       variant: 'green',
       description:
         'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
     },
     {
-      title: 'Many new locations every month',
+      title: 'Hashtags and Trends',
       icon: '/location.svg',
       variant: 'orange',
       description:
